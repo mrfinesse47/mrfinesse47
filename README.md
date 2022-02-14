@@ -7,6 +7,8 @@
 
 🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects
 
+other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>.
+
 Connect with me:
 <a href="https://www.linkedin.com/in/kevin-mason-7b83b3228/">Kevin Mason</a>
 
