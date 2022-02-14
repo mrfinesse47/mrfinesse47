@@ -1,7 +1,7 @@
 ### Hi there 👋, I Am Kevin Mason - Fullstack Developer and Technologist
 
 <!--
-**mrfinesse47/mrfinesse47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mrfinesse47/mrfinesse47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am passionate about developing apps that are clean, fast, and intuitive, that solve daily problems for users.
 
