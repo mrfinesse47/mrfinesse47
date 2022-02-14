@@ -3,11 +3,7 @@
 <!--
 **mrfinesse47/mrfinesse47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-right now I am working as a Communications Navigation, and Surveillance (CNS) Technologist for <a href="https://www.navcanada.ca/en/">Nav Canada</a>, (The Canadain FAA)
-
-Apart from jumping out of helicopters, riding snowmobiles, and playing with electricity, I like to chill and code with my down time.
-
-I am passionate about developing apps that are beautiful, intuitive, and useful.
+right now I am working as a Communications Navigation, and Surveillance (CNS) Technologist for <a href="https://www.navcanada.ca/en/">Nav Canada</a>, (The Canadain FAA). Apart from jumping out of helicopters, riding snowmobiles, and playing with electricity, I like to chill and code with my down time. I am passionate about developing apps that are beautiful, intuitive, and useful.
 
 🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects
 
