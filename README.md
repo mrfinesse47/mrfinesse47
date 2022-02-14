@@ -5,7 +5,7 @@
 
 I am passionate about developing apps that are clean, fast, and intuitive, that solve daily problems for users.
 
-🌱 I’m currently brushing up on my front end skills vith various frontendmentor.io projects
+🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects
 
 Connect with me:
 Kevin Mason
