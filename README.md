@@ -3,7 +3,9 @@
 <!--
 **mrfinesse47/mrfinesse47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am passionate about developing apps that are clean, fast, and intuitive, that solve daily problems for users.
+Apart from jumping out of helicopters, riding snowmobiles, and playing with electricity, I like to chill and code with my down time.
+
+I am passionate about developing apps that are beautiful, intuitive, and useful.
 
 🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects
 
