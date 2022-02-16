@@ -7,7 +7,7 @@
 
  I am passionate about developing apps that are beautiful, intuitive, and useful.
 
-🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects
+🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, right now i'm working on a tic-tac-toe practice game.
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>.
 
