@@ -5,7 +5,7 @@
 
 ### About Me:
 
- I am passionate about developing apps that are beautiful, intuitive, and useful.
+ I am passionate about developing apps that are beautiful, intuitive, and useful...
 
 🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, right now i'm working on a tic-tac-toe practice game, created with React.
 
