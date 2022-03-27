@@ -7,7 +7,7 @@
 
  I am passionate about developing apps that are beautiful, intuitive, and useful..
 
-🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, I just completed on a countries of the world app, created with React. Now I am just brushing up on the basics of HMTL/CSS through a Udemy course: Modern HTML & CSS From The Beginning (Including Sass). The reason to do this is to review and refine my HMTL/CSS skills.
+🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, I just completed on a countries of the world app, created with React.
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>.
 
