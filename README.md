@@ -7,7 +7,7 @@
 
  I am passionate about developing apps that are beautiful, intuitive, and useful..
 
-🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, I just completed on a countries of the world app, created with React. Now I have begun working on a fullstack chess app. And, on the side im reviewing typescript and react hooks theory.
+🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, I just completed on a countries of the world app, created with React. Now I have begun working on a fullstack chess app. And, on the side im reviewing typescript and react hooks theory. And, today im going through some Next.js basics.
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>.
 
