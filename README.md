@@ -5,7 +5,7 @@
 
 ### About Me:
 
- I am passionate about developing apps that are beautiful, intuitive, and useful..
+ I am passionate about developing apps that are beautiful, intuitive, and useful.
 
 🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, I just completed on a countries of the world app, created with React. Now I have begun working on a fullstack chess app. And, on the side im reviewing typescript with React.
 
