@@ -9,7 +9,7 @@
 
 🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, I just completed on a countries of the world app, created with React. Now I have begun working on a fullstack chess app, and a Vanilla JS pomodoro timer.
 
-other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>.
+other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
 
 Connect with me:
 <a href="https://www.linkedin.com/in/kevin-mason-7b83b3228/">Kevin Mason</a>
