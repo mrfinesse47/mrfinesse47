@@ -6,6 +6,8 @@
 #### About Me:
 
  I am passionate about developing apps that are beautiful, intuitive, and useful.
+ 
+ I have an over 100 days of programming every day in a row.
 
 🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, I just completed on a countries of the world app, created with React. Now I have begun working on a fullstack chess app, and a Vanilla JS pomodoro timer.
 
