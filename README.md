@@ -7,7 +7,7 @@
 
  I am passionate about developing apps that are beautiful, intuitive, and useful.
 
-🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, I just completed a simple Pomodoro Timer App using the Vanilla JS framework.
+🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, and currently grinding Leetcode!
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
 
