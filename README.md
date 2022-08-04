@@ -11,7 +11,7 @@
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
 
-Connect with me:
+Connect with me on Linkedin:
 <a href="https://www.linkedin.com/in/kevin-mason-7b83b3228/">Kevin Mason</a>
 
 ***<a href="https://www.frontendmentor.io/profile/mrfinesse47"><strong>CLICK HERE TO CHECKOUT MY FRONTEND MENTOR PORTFOLIO</strong></a>***
