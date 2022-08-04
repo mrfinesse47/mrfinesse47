@@ -14,7 +14,7 @@ other than that i love to play chess ♟, if you care for a game you can find me
 Connect with me:
 <a href="https://www.linkedin.com/in/kevin-mason-7b83b3228/">Kevin Mason</a>
 
-<a href="https://www.frontendmentor.io/profile/mrfinesse47"><strong>CLICK HERE TO CHECKOUT MY FRONTEND MENTOR PORTFOLIO</strong></a>
+***<a href="https://www.frontendmentor.io/profile/mrfinesse47"><strong>CLICK HERE TO CHECKOUT MY FRONTEND MENTOR PORTFOLIO</strong></a>***
 
 <h3 align="left">Languages and Tools:</h3>
 
