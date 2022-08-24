@@ -7,7 +7,7 @@
 
  I am passionate about developing apps that are beautiful, intuitive, and useful.
 
-🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, and currently grinding Leetcode!
+🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, and currently working through a devops course that is showing me how to create custom CI/CD pipelines.
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
 
