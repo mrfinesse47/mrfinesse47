@@ -7,10 +7,6 @@
 
  I am passionate about developing apps that are beautiful, intuitive, and useful.
 
-🪴 I’m currently brushing up on my front end skills vith various frontendmentor.io projects, and currently working through a devops course that is showing me how to create custom CI/CD pipelines.
-
-just bought a new mac book pro 14 inch. My dog destroyed my 2018 mbp today.
-
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
 
 Connect with me on Linkedin:
