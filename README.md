@@ -6,6 +6,8 @@
 #### About Me:
 
  I am passionate about developing apps that are beautiful, intuitive, and useful.
+ 
+ I am currently working on: Learning Vue
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
 
