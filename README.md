@@ -8,6 +8,8 @@
  I am passionate about developing apps that are beautiful, intuitive, and useful.
  
  I Just completed a Kanban task management board, see it in the pinned repos below.
+ 
+ I am currently learning how to create Power Apps for a new role at my current employer.
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
 
