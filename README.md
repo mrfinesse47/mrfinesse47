@@ -9,7 +9,9 @@
 
  I am currently learning how to create Power Apps for a new role at my current employer.
  
- Also kind of getting into Leetcode. Now in Python!
+ Also kind of getting into Leetcode. Now in Python! 
+ 
+ Learning Django on the side now!
 
 other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
 
