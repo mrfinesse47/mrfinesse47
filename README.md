@@ -5,7 +5,7 @@
 
 #### About Me:
 
- I am passionate about developing apps that are beautiful, intuitive, and useful.
+I am passionate about developing apps that are beautiful, intuitive, and useful.
 
 Learning Django Now.
 
