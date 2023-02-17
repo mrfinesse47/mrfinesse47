@@ -1,4 +1,4 @@
-### Hi there 👋, I Am Kevin Mason - Fullstack Developer and Technologist from Canada 🇨🇦.
+### Hi there 👋, I Am Kevin Mason - Fullstack Developer and Technologist from Canada 🇨🇦
 
 <!--
 **mrfinesse47/mrfinesse47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
