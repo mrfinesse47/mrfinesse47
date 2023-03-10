@@ -16,7 +16,7 @@ Connect with me on Linkedin:
 
 ***<a href="https://www.frontendmentor.io/profile/mrfinesse47"><strong>CLICK HERE TO CHECKOUT MY FRONTEND MENTOR PORTFOLIO</strong></a>***
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>.
 
 
 
