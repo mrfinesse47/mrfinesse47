@@ -7,9 +7,7 @@
 
 I am passionate about developing apps that are beautiful, intuitive, and useful.
 
-Learning Django Now.
-
-other than that i love to play chess ♟, if you care for a game you can find me on <a href = "https://lichess.org/@/mrfinesse47">lichess</a>..
+Learning Vue and Nuxt as of now.
 
 Connect with me on Linkedin:
 <a href="https://www.linkedin.com/in/kevin-mason-7b83b3228/">Kevin Mason</a>
