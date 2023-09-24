@@ -9,9 +9,6 @@ I am passionate about developing apps that are beautiful, intuitive, and useful.
 
 Learning Vue and Nuxt as of now.
 
-Connect with me on Linkedin:
-<a href="https://www.linkedin.com/in/kevin-mason-7b83b3228/">Kevin Mason</a>
-
 ***<a href="https://www.frontendmentor.io/profile/mrfinesse47"><strong>CLICK HERE TO CHECKOUT MY FRONTEND MENTOR PORTFOLIO</strong></a>***
 
 <h3 align="left">Languages and Tools:</h3>
